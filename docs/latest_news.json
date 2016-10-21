@@ -1,0 +1,11 @@
+{
+  "latest_news" : [
+    {
+      "category": "category name",
+      "title": "news title",
+      "description": "short image description",
+      "img_link": "relative image url",
+      "news_link": "link to news"
+    }  
+  ]
+}
