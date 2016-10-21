@@ -1,0 +1,12 @@
+{
+  "current_news" : "news slug",
+  "news" : [
+    {
+      "category": "category name",
+      "title": "news title",
+      "text": "news text",
+      "date": "news publish date",
+      "slug": "news string abbreviation"
+    }  
+  ]
+}
